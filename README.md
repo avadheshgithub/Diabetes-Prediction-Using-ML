@@ -1,7 +1,6 @@
 # Diabetes Prediction ML Models
 
 
-
 ## **Introduction**
 
 This repository contains machine learning models to predict whether a person has diabetes or not based on medical diagnostic measurements. We have utilized two different algorithms to perform this task: Random Forest and Support Vector Machine (SVM). The Random Forest model achieved an accuracy of 100%, while the SVM model achieved an accuracy of 97.5%.
