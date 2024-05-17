@@ -10,10 +10,10 @@ This repository contains machine learning models to predict whether a person has
 
 1. Random Forest Algorithm
    
-         Accuracy: 0.983
-         F1 Score: 0.927
-         Precision: 0.905
-         Recall: 0.950
+          Accuracy: 0.983
+          F1 Score: 0.927
+          Precision: 0.905
+          Recall: 0.950
 
 2. Logistic Regression
    
@@ -29,14 +29,14 @@ This repository contains machine learning models to predict whether a person has
           Precision: 0.944
           Recall: 0.850
 
-5.  k-nearest neighbors (KNN)
+4.  k-nearest neighbors (KNN)
 
-          Accuracy: 0.947
-          F1 Score: 0.750
-          Precision: 0.750
-          Recall: 0.750
+           Accuracy: 0.947
+           F1 Score: 0.750
+           Precision: 0.750
+           Recall: 0.750
 
-7. Naive Bayes
+5. Naive Bayes
 
           Accuracy: 0.973
           F1 Score: 0.880
