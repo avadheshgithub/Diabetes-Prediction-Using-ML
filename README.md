@@ -41,18 +41,29 @@ This repository contains machine learning models to predict whether a person has
     
     
 
-
-
-
-
-
 ## Repository Structure
+```plaintext
+├── data
+│   ├── diabetes.csv               # Dataset
+├── notebooks
+│   ├── RandomForestModel.ipynb    # Jupyter notebook for Random Forest
+│   ├── SVMModel.ipynb             # Jupyter notebook for SVM
+├── assets
+│   ├── banner.png                 # Banner image for README
+├── src
+│   ├── data_preprocessing.py      # Script for data preprocessing
+│   ├── train_model.py             # Script for training models
+│   ├── evaluate_model.py          # Script for evaluating models
+│   ├── predict.py                 # Script for making predictions
+├── README.md                      # This file
+├── requirements.txt               # Required libraries
+
+```
 
 
 
 
-
-## Contributors
+## Contributor
 
  - Avadhesh kumar shah
- - 
+
