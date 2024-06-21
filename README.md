@@ -1,9 +1,70 @@
+ #       Diabetes Health Prediction and Analysis 🎉
+
+![Diabetes Health Prediction](https://miro.medium.com/v2/resize:fit:828/format:webp/1*KkQbSEI9sT44_yxR9vscJA.gif)
+
+---
+
+Welcome to the **Diabetes Health Prediction and Analysis** project! This repository contains a comprehensive pipeline for predicting diabetes diagnosis using various machine learning .
+
+## 🚀 Project Overview
+
+This project aims to provide a thorough analysis of diabetes-related health data, develop predictive models, and evaluate their performance. The key components of the project include:
+
+- 📊 Data Preprocessing
+- 🔍 Exploratory Data Analysis (EDA)
+- 🛠️ Feature Engineering
+- 🧠 Model Training
+- 📈 Model Evaluation
+- 📑 Comprehensive Reports
+
+## 📂 Project Structure
+
+Here's an overview of the project directory structure:
+
+
+```plaintext
+Diabetes_Health_Prediction_and_Analysis/
+├── data/
+│   ├── raw/
+│   │   └── diabetes_data.csv
+│   ├── processed/
+│   │   ├── X_train.csv
+│   │   ├── X_train_engineered.csv
+│   │   ├── X_test.csv
+│   │   ├── X_test_engineered.csv
+│   │   ├── y_train.csv
+│   │   └── y_test.csv
+├── app/
+│   ├── app.py
+│   ├── templates/
+│   │   └── index.html
+│   └── static/
+│       └── styles.css
+├── models/
+│   ├── logistic_regression.pkl
+│   ├── random_forest.pkl
+│   └── xgboost.pkl
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb
+├── scripts/
+│   ├── plots/
+│   ├── reports/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   ├── model_evaluation.py
+│   └── model_performance_report.py
+├── tests/
+│   ├── models/
+│   ├── test_data_preprocessing.py
+│   ├── test_feature_engineering.py
+│   ├── test_model_training.py
+├── requirements.txt 
+└── README.md
+```
+
+
 # Diabetes Prediction ML Models
-
-
-## **Introduction**
-
-This repository contains machine learning models to predict whether a person has diabetes or not based on medical diagnostic measurements. We have utilized two different algorithms to perform this task: Random Forest and Support Vector Machine (SVM) , logistic regression, k-nearest neighbours (KNN), Naive Bayes.
 
 
 ## **Algorithms Used**
@@ -64,32 +125,10 @@ This repository contains machine learning models to predict whether a person has
     
     8.  Visualization
     
-    
-
-## Repository Structure
-```plaintext
-├── data
-│   ├── diabetes.csv               # Dataset
-├── notebooks
-│   ├── RandomForestModel.ipynb    # Jupyter notebook for Random Forest
-│   ├── SVMModel.ipynb             # Jupyter notebook for SVM
-├── assets
-│   ├── banner.png                 # Banner image for README
-├── src
-│   ├── data_preprocessing.py      # Script for data preprocessing
-│   ├── train_model.py             # Script for training models
-│   ├── evaluate_model.py          # Script for evaluating models
-│   ├── predict.py                 # Script for making predictions
-├── README.md                      # This file
-├── requirements.txt               # Required libraries
-
-```
-
-
-
 
 ## Contributor
 
  - Avadhesh kumar shah
+ - Abhiyank yadav
 
 
