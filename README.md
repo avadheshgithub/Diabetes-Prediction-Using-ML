@@ -34,16 +34,10 @@ Diabetes_Health_Prediction_and_Analysis/
 │   │   ├── X_test_engineered.csv
 │   │   ├── y_train.csv
 │   │   └── y_test.csv
-├── app/
-│   ├── app.py
-│   ├── templates/
-│   │   └── index.html
-│   └── static/
-│       └── styles.css
 ├── models/
 │   ├── logistic_regression.pkl
 │   ├── random_forest.pkl
-│   └── xgboost.pkl
+│   └── svm.pkl
 ├── notebooks/
 │   └── exploratory_data_analysis.ipynb
 ├── scripts/
