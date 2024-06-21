@@ -1,4 +1,4 @@
- #       Diabetes Health Prediction and Analysis 🎉
+ #       **Diabetes Health Prediction and Analysis 🎉**
 
 ![Diabetes Health Prediction](https://miro.medium.com/v2/resize:fit:828/format:webp/1*KkQbSEI9sT44_yxR9vscJA.gif)
 
@@ -64,7 +64,7 @@ Diabetes_Health_Prediction_and_Analysis/
 ```
 
 
-# Diabetes Prediction ML Models
+## Diabetes Prediction ML Models
 
 
 ## **Algorithms Used**
